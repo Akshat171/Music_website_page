@@ -1,0 +1,321 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "date": {
+                "day": "15",
+                "month": "Feb"
+            },
+            "location": {
+                "city": "Los Angles",
+                "country": "USA",
+                "address": "LA Convention Center"
+            },
+            "priceRange": "60-250$"
+        },
+        {
+            "id": 2,
+            "date": {
+                "day": "20",
+                "month": "March"
+            },
+            "location": {
+                "city": "Rio de Janeiro",
+                "country": "Brazil",
+                "address": "Sambadrome"
+            },
+            "priceRange": "60-200$"
+        },
+        {
+            "id": 3,
+            "date": {
+                "day": "10",
+                "month": "May"
+            },
+            "location": {
+                "city": "Paris",
+                "country": "France",
+                "address": "Eiffel Tower"
+            },
+            "priceRange": "70-200$"
+        },
+        {
+            "id": 4,
+            "date": {
+                "day": "10",
+                "month": "May"
+            },
+            "location": {
+                "city": "Paris",
+                "country": "France",
+                "address": "Eiffel Tower"
+            },
+            "priceRange": "70-200$"
+        },
+        {
+            "id": 5,
+            "date": {
+                "day": "10",
+                "month": "May"
+            },
+            "location": {
+                "city": "Paris",
+                "country": "France",
+                "address": "Eiffel Tower"
+            },
+            "priceRange": "70-200$"
+        },
+        {
+            "id": 6,
+            "date": {
+                "day": "10",
+                "month": "May"
+            },
+            "location": {
+                "city": "Paris",
+                "country": "France",
+                "address": "Eiffel Tower"
+            },
+            "priceRange": "70-200$"
+        },
+        {
+            "id": 7,
+            "date": {
+                "day": "10",
+                "month": "May"
+            },
+            "location": {
+                "city": "Paris",
+                "country": "France",
+                "address": "Eiffel Tower"
+            },
+            "priceRange": "70-200$"
+        }
+    ],
+    "albums": [
+        {
+            "id": 1,
+            "img": "/assets/albums/cover/cover-1.png",
+            "name": "album 1",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "img": "/assets/albums/cover/cover-2.png",
+            "name": "album 2",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "img": "/assets/albums/cover/cover-3.png",
+            "name": "album 3",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "img": "/assets/albums/cover/cover-4.png",
+            "name": "album 4",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "img": "/assets/albums/cover/cover-5.png",
+            "name": "album 5",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "img": "/assets/albums/cover/cover-6.png",
+            "name": "album 6",
+            "tracks": [
+                {
+                    "name": "A",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "B",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "C",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "D",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "E",
+                    "src": "assets/freedom.mp3"
+                },
+                {
+                    "name": "F",
+                    "src": "assets/freedom.mp3"
+                }
+            ]
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        },
+        {
+            "id": 2,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        },
+        {
+            "id": 3,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        },
+        {
+            "id": 4,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        },
+        {
+            "id": 5,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        },
+        {
+            "id": 6,
+            "date": "2023-10-17",
+            "title": "AJ style",
+            "description": "Join us for event "
+        }
+    ]
+}
