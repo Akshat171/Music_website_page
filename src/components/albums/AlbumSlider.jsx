@@ -132,7 +132,7 @@ const AlbumSlider = () => {
           return (
             <SwiperSlide
               key={index}
-              className="relative group overflow-hidden border-2 border-transparent w-[254px] rounded-md"
+              className="relative group overflow-hidden border-2 border-transparent w-[254px] rounded-[10px]"
             >
               <div className="relative w-[195px] h-[195px] sm:w-[360px] sm:h-[240px] md:max-h-[240px]  cursor-pointer">
                 <Image
@@ -140,7 +140,7 @@ const AlbumSlider = () => {
                   fill
                   priority
                   alt="img"
-                  className="object-contain"
+                  className="object-contain group-hover:scale-105 transition-all "
                 />
               </div>
             </SwiperSlide>

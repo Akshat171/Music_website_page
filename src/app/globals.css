@@ -123,3 +123,7 @@ body{
 .album-player .rap-controls .rap-total-time{
   @apply hidden
 }
+
+.thumb-slider .swiper-slide-thumb-active{
+  @apply border-2 border-accent overflow-hidden transition-all duration-700
+}
