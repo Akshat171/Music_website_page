@@ -13,7 +13,10 @@ import useSWR from "swr";
 const fetcher = (url) => fetch(url).then((res) => res.json());
 const AlbumSlider = () => {
   const [thumbSwiper, setThumbSwiper] = useState(null);
-  const { data, error } = useSWR("http://localhost:4000/albums", fetcher);
+  const { data, error } = useSWR(
+    "https://music-data-1j4p.onrender.com/albums",
+    fetcher
+  );
   console.log(data);
 
   if (error) return "failed to fetch data";
@@ -134,7 +137,7 @@ const AlbumSlider = () => {
               key={index}
               className="relative group overflow-hidden border-2 border-transparent w-[254px] rounded-[10px]"
             >
-              <div className="relative w-[195px] h-[195px] sm:w-[360px] sm:h-[240px] md:max-h-[240px]  cursor-pointer">
+              <div className="relative w-[195px] h-[195px] sm:w-[360px] sm:h-[240px] md:max-w-[240px] md:max-h-[240px]  cursor-pointer">
                 <Image
                   src={thumb.img}
                   fill

@@ -8,6 +8,7 @@ import {
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../varients";
+import { Link } from "react-scroll";
 
 const locationSequence = [
   "Los Angles , USA",
@@ -46,7 +47,7 @@ const Hero = () => {
                 className="w-[300px] h-[101.37px] xl:w-[725px] xl:h-[244.97px] "
               >
                 <Image
-                  src={"/assets/hero/typo-1.svg"}
+                  src={"/assets/hero/ADAM.png"}
                   fill
                   alt="bg"
                   className="object-contain"
@@ -66,7 +67,7 @@ const Hero = () => {
                 className="w-[300px] h-[101.37px] xl:w-[625px] xl:h-[244.97px] "
               >
                 <Image
-                  src={"/assets/hero/typo-2.svg"}
+                  src={"/assets/hero/levine.png"}
                   fill
                   alt="bg"
                   className="object-contain"
@@ -86,7 +87,7 @@ const Hero = () => {
                 className="w-[150px] h-[100px] xl:w-[244px] xl:h-[200px] mix-blend-luminosity"
               >
                 <Image
-                  src={"/assets/hero/bird.png"}
+                  src={"/assets/hero/hp.png"}
                   fill
                   alt="bg"
                   className="object-contain"
@@ -130,7 +131,9 @@ const Hero = () => {
             whileInView={"show"}
             viewport={{ once: false, amount: 0.7 }}
           >
-            <button className="btn btn-lg btn-accent">Get tickets</button>
+            <Link to="tours">
+              <button className="btn btn-lg btn-accent">Get tickets</button>
+            </Link>{" "}
           </motion.div>
         </div>
         <motion.div

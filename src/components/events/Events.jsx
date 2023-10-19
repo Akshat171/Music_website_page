@@ -1,5 +1,5 @@
 const getEvents = async () => {
-  const res = await fetch("http://localhost:4000/events");
+  const res = await fetch("https://music-data-1j4p.onrender.com/events");
   return res.json();
 };
 

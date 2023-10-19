@@ -95,187 +95,187 @@
     "albums": [
         {
             "id": 1,
-            "img": "/assets/albums/cover/cover-1.png",
-            "name": "album 1",
+            "img": "/assets/albums/cover/SAJ.png",
+            "name": "Songs About Jane",
             "tracks": [
                 {
-                    "name": "A",
-                    "src": "assets/freedom.mp3"
+                    "name": "This Love",
+                    "src": "assets/songs/ThisLove.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "She Will Be Loved",
+                    "src": "assets/songs/SheWillBeLoved.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Daylight",
+                    "src": "assets/songs/Daylight.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "This Love",
+                    "src": "assets/songs/ThisLove.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
+                    "name": "Animals",
+                    "src": "assets/songs/Animals.mp3"
                 },
                 {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Sunday Morning",
+                    "src": "assets/songs/SM.mp3"
                 }
             ]
         },
         {
             "id": 2,
-            "img": "/assets/albums/cover/cover-2.png",
-            "name": "album 2",
+            "img": "/assets/albums/cover/IWBSBL.jpg",
+            "name": "It Won’t Be Soon Before Long",
             "tracks": [
                 {
-                    "name": "A",
-                    "src": "assets/freedom.mp3"
+                    "name": "Maps",
+                    "src": "assets/songs/Maps.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "Payphone",
+                    "src": "assets/songs/PayPhone.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Moves Like Jagger",
+                    "src": "assets/songs/MovesLikeJagger.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "Love Somebody",
+                    "src": "assets/songs/LoveSomebody.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
+                    "name": "One More Night",
+                    "src": "assets/songs/OneMoreNight.mp3"
                 },
                 {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Sugar",
+                    "src": "assets/songs/Sugar.mp3"
                 }
             ]
         },
         {
             "id": 3,
-            "img": "/assets/albums/cover/cover-3.png",
-            "name": "album 3",
+            "img": "/assets/albums/cover/HAO.jpg",
+            "name": "Hands All Over",
             "tracks": [
                 {
-                    "name": "A",
-                    "src": "assets/freedom.mp3"
+                    "name": "Misery",
+                    "src": "assets/songs/Misery.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "Cold",
+                    "src": "assets/songs/Cold.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Never Gonna Leave This Bed",
+                    "src": "assets/songs/NeverGonnaLeaveThisBed.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "It Was Always You",
+                    "src": "assets/songs/ItWasAlwaysYou.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
+                    "name": "Stutter",
+                    "src": "assets/songs/Shutter.mp3"
                 },
                 {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Wake Up Call",
+                    "src": "assets/songs/WUC.mp3"
                 }
             ]
         },
         {
             "id": 4,
-            "img": "/assets/albums/cover/cover-4.png",
-            "name": "album 4",
+            "img": "/assets/albums/cover/Overexposed.png",
+            "name": "Overexposed",
             "tracks": [
                 {
-                    "name": "A",
-                    "src": "assets/freedom.mp3"
+                    "name": "Lucky Strike",
+                    "src": "assets/songs/LuckyStrike.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "Ladykiller",
+                    "src": "assets/songs/Ladykiller.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Sad",
+                    "src": "assets/songs/Sad.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "Tickets",
+                    "src": "assets/songs/Tickets.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
+                    "name": "Wipe Your Eyes",
+                    "src": "assets/songs/WYE.mp3"
                 },
                 {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Wasted Years",
+                    "src": "assets/songs/WastedYears.mp3"
                 }
             ]
         },
         {
             "id": 5,
-            "img": "/assets/albums/cover/cover-5.png",
-            "name": "album 5",
+            "img": "/assets/albums/cover/V.png",
+            "name": "V",
             "tracks": [
                 {
-                    "name": "A",
+                    "name": "New Love",
+                    "src": "assets/songs/NewLove.mp3"
+                },
+                {
+                    "name": "Coming Back For You",
                     "src": "assets/freedom.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "This Summer",
+                    "src": "assets/songs/ThisSummer.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Lost Stars",
+                    "src": "assets/songs/LostStars.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "Maps",
+                    "src": "assets/songs/Maps.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
-                },
-                {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Sex And Candy",
+                    "src": "assets/songs/SexAndCandy.mp3"
                 }
             ]
         },
         {
             "id": 6,
-            "img": "/assets/albums/cover/cover-6.png",
-            "name": "album 6",
+            "img": "/assets/albums/cover/rp.jpg",
+            "name": "Red Pill Blues",
             "tracks": [
                 {
-                    "name": "A",
-                    "src": "assets/freedom.mp3"
+                    "name": "Best 4 U",
+                    "src": "assets/songs/Best_4_U.mp3"
                 },
                 {
-                    "name": "B",
-                    "src": "assets/freedom.mp3"
+                    "name": "What Lovers Do",
+                    "src": "assets/songs/WhatLoversDo.mp3"
                 },
                 {
-                    "name": "C",
-                    "src": "assets/freedom.mp3"
+                    "name": "Wait",
+                    "src": "assets/songs/Wait.mp3"
                 },
                 {
-                    "name": "D",
-                    "src": "assets/freedom.mp3"
+                    "name": "Lips On You",
+                    "src": "assets/songs/LipsOnYou.mp3"
                 },
                 {
-                    "name": "E",
-                    "src": "assets/freedom.mp3"
+                    "name": "Bet My Heart",
+                    "src": "assets/songs/BetMyHeart.mp3"
                 },
                 {
-                    "name": "F",
-                    "src": "assets/freedom.mp3"
+                    "name": "Girls Like You",
+                    "src": "assets/songs/GirlsLikeYou.mp3"
                 }
             ]
         }
@@ -284,20 +284,20 @@
         {
             "id": 1,
             "date": "2023-10-17",
-            "title": "AJ style",
-            "description": "Join us for event "
+            "title": "Adam Levine: Maroon 5's Charismatic Frontman",
+            "description": "Adam Levine, born in LA in 1979, is the lead singer of Maroon 5. The band's big break came with Songs About Jane in 2002, a mix of pop, rock, and R&B that won a Grammy. Levine's voice and stage presence quickly made Maroon 5 a global sensation. "
         },
         {
             "id": 2,
             "date": "2023-10-17",
-            "title": "AJ style",
-            "description": "Join us for event "
+            "title": "Maroon 5's Musical Evolution",
+            "description": "Maroon 5's sound has transformed over the years. From the soulful tracks of Songs About Jane to the polished pop hits, the band's versatility is striking. Levine's songwriting and unique voice are the driving force behind their success. "
         },
         {
             "id": 3,
             "date": "2023-10-17",
-            "title": "AJ style",
-            "description": "Join us for event "
+            "title": "Adam Levine: More Than a Musician",
+            "description": "Adam Levine isn't just a singer. He's an actor, songwriter, and The Voice coach. His roles in movies like Begin Again and TV shows like American Horror Story showcase his acting chops. As a Voice coach, his mentorship skills shine. Levine also uses his platform to support charitable causes. His impact goes beyond music."
         },
         {
             "id": 4,
@@ -306,16 +306,10 @@
             "description": "Join us for event "
         },
         {
-            "id": 5,
+            "id": 2,
             "date": "2023-10-17",
-            "title": "AJ style",
-            "description": "Join us for event "
-        },
-        {
-            "id": 6,
-            "date": "2023-10-17",
-            "title": "AJ style",
-            "description": "Join us for event "
+            "title": "Maroon 5's Musical Evolution",
+            "description": "Maroon 5's sound has transformed over the years. From the soulful tracks of Songs About Jane to the polished pop hits, the band's versatility is striking. Levine's songwriting and unique voice are the driving force behind their success. "
         }
     ]
 }

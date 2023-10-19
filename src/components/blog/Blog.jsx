@@ -2,7 +2,7 @@ import SectionHeader from "../SectionHeader";
 import PostList from "./PostList";
 
 const getPosts = async () => {
-  const res = await fetch("http://localhost:4000/posts");
+  const res = await fetch("https://music-data-1j4p.onrender.com/posts");
   return res.json();
 };
 const Blog = async () => {

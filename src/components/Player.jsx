@@ -15,18 +15,19 @@ const Player = () => {
       >
         <div className="container mx-auto flex flex-col justify-between items-center xl:flex-row">
           <div className="hidden w-[300px] xl:flex items-center gap-x-4">
-            <div className="relative w-16 h-16">
+            <div className="relative w-16 h-16 ">
               {" "}
               <Image
-                src={"/assets/player/avatar.png"}
+                src={"/assets/player/AD_1.jpg"}
                 alt="avatar"
                 fill
                 priority
+                className="rounded-3xl"
               />
             </div>
             <div className="leading-none">
               <div className="text-lg font-medium">Adam levine</div>
-              <div className="text-sm font-light">Payphone</div>
+              <div className="text-sm font-light">This Love</div>
             </div>
           </div>
           <div className="w-full max-w-4xl">
@@ -36,7 +37,7 @@ const Player = () => {
               color="#fff"
               volume={40}
               volumePlacement="top"
-              src="/assets/freedom.mp3"
+              src="/assets/songs/ThisLove.mp3"
               style={{
                 background: "transparent",
                 boxShadow: "none",

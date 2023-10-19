@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <header
       className={`fixed z-50 w-full ${
-        active ? "bg-[#03015] py-6 transition-all" : "bg-transparent py-8"
+        active ? "bg-[#030315] py-6 transition-all" : "bg-transparent py-8"
       }`}
     >
       <div className="container mx-auto flex flex-col xl:flex-row items-center justify-between">
@@ -34,7 +34,7 @@ const Header = () => {
           className="relative flex w-[226px] h-[37.64px] transition-all mb-4 xl:mb-0"
         >
           <Image
-            src={"/assets/header/logo.svg"}
+            src={"/assets/header/levine.png"}
             fill
             alt="logo"
             className="object-contain"

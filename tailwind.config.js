@@ -21,10 +21,10 @@ module.exports = {
     extend: {
       backgroundImage: {
         singerOverlay: "url(/assets/hero/singer-overlay.png)",
-        newsletter: "url(/assets/newsletter/bg.png)",
+        newsletter: "url(/assets/newsletter/Maroon.jpg)",
       },
       fontFamily: {
-        alexBrush: [`var(--font-alexBrush)`, "sans-serif"],
+        alexBrush: [`var(--font-montserrat)`, "sans-serif"],
         montserrat: [`var(--font-montserrat)`, "sans-serif"],
       },
       colors: {
