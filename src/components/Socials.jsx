@@ -8,11 +8,11 @@ import {
 } from "react-icons/ri";
 const socials = [
   {
-    path: "#",
+    path: "https://www.youtube.com/@Maroon5",
     icon: <RiYoutubeFill />,
   },
   {
-    path: "#",
+    path: "https://www.instagram.com/maroon5/",
     icon: <RiInstagramFill />,
   },
   {
@@ -20,7 +20,7 @@ const socials = [
     icon: <RiSoundcloudFill />,
   },
   {
-    path: "#",
+    path: "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP",
     icon: <RiSpotifyFill />,
   },
 ];
