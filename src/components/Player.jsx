@@ -18,7 +18,7 @@ const Player = () => {
             <div className="relative w-16 h-16 ">
               {" "}
               <Image
-                src={"/assets/player/AD_1.jpg"}
+                src={"/assets/player/singer.jpeg"}
                 alt="avatar"
                 fill
                 priority
